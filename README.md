@@ -8,4 +8,4 @@ git remote add origin "https://github.com/username/repositoryname.git
 git push -u origin main
 
 git checkout
-git log - project history along with Author, commit msg and time 
+git log - project history along with Author, commit msg and time  
